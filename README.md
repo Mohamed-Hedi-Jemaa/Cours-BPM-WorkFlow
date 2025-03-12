@@ -1,37 +1,25 @@
-# Bonita Camp
+# Cours Workflow et BPM : Bonita 2024.3  (ISIS)
 
-Bonita Camp is an introduction training to Bonita Community Edition.  
-The main objective of this training is to familiarize yourself with concepts and key features of Bonita.  
-Bonita Camp include both theoretical knowledge and hands on with exercises that let you build your first Bonita application.
-Bonita Camp comes with:
+Ce cours offre une introduction approfondie à Bonita Community Edition, avec un accent particulier sur la gestion des workflows et des processus métier (BPM). 
+L'objectif principal est de vous familiariser avec les concepts clés de Bonita, ainsi qu'avec ses fonctionnalités essentielles pour la conception et la gestion de processus.
 
-- A set of exercises described on a [dedicated web site](http://bonitasoft-community.github.io/bonita-camp/)
-- [Exercises solutions](https://github.com/Bonitasoft-Community/bonita-camp/releases/latest)
--  [Outdated - based on Bonita 2021.2] A set of slides commented in a [series of videos](https://www.youtube.com/playlist?list=PLvvoQatxaHOMHRiP7hFayNXTJNdxIEiYp) (also available in [French](https://www.youtube.com/playlist?list=PLvvoQatxaHOPSATzZe-zPh-LrSNGfpQEf) and [Spanish](https://www.youtube.com/playlist?list=PLvvoQatxaHOOgWEMHZjk5rjc9qsCnh7bi)) or during live sessions
+Le contenu du cours inclut :
 
-If you need assistance you can:
+- Des connaissances théoriques sur les workflows, BPM, et la plateforme Bonita
+- Des exercices pratiques permettant de construire une première application Bonita
+- Une exploration détaillée des principales fonctionnalités de Bonita 2024.3 pour la création de processus métier
 
-- Ask your question on **[Bonitasoft Community forum](https://community.bonitasoft.com/questions-and-answers)**
-- [Get in touch with Bonitasoft](https://www.bonitasoft.com/contact-us) to get more information about [support offering](https://www.bonitasoft.com/support) and additional features of Enterprise Edition
+Le cours comprend les éléments suivants :
+- Un ensemble d'exercices pratiques détaillés disponibles sur un [site dédié]((https://mohamed-hedi-jemaa.github.io/Cours-BPM-WorkFlow/))
+- [Solutions des exercices](En cours...)
+- Une série de vidéos explicatives disponibles en [anglais](https://www.youtube.com/playlist?list=PLvvoQatxaHOMHRiP7hFayNXTJNdxIEiYp), [français](https://www.youtube.com/playlist?list=PLvvoQatxaHOPSATzZe-zPh-LrSNGfpQEf), et [espagnol](https://www.youtube.com/playlist?list=PLvvoQatxaHOOgWEMHZjk5rjc9qsCnh7bi) qui couvrent les concepts clés
 
-Content is currently available in:
-- English 
-- Français 
-- Español
+### Archive
+- Les  diapositives de cours sont disponibles dans le dossier [Cours](En cours ...)
 
-## For Bonita Camp Contributors
+Enjoy !!!
 
-### Sources
 
-All sources are available on [Bonita Camp GitHub repository](https://github.com/Bonitasoft-Community/bonita-camp/):
-- Source files of slides based on h5p and generated htmls are located in the [h5p](https://github.com/Bonitasoft-Community/bonita-camp/tree/master/h5p) folder
-- Exercises are hosted using GitHub Pages. Source are located in the [docs](https://github.com/Bonitasoft-Community/bonita-camp/tree/master/docs) folder and content is available for users at **[http://bonitasoft-community.github.io/bonita-camp/](http://bonitasoft-community.github.io/bonita-camp/)**
-
-### Build instructions for slides
-Refer to h5p documentation at **[https://h5p.org/](https://h5p.org//)**
-
-### Archive 
-- Previous versions of slides are located in the [slides](https://github.com/Bonitasoft-Community/bonita-camp/tree/master/slides) folder
 
 
 
