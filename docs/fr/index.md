@@ -1,5 +1,4 @@
 title: "Cours Bonita FIE4 2025 - Mohamed Hedi DJEMAA"
-logo: "docs/fr/images/logo-isis.png"
 
 
 
