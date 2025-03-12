@@ -1,6 +1,4 @@
----
-title: "Cours Bonita FIE4 2025 - Mohamed Hedi DJEMAA"
----
+
 
 
 ## Présentation
