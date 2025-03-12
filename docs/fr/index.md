@@ -1,9 +1,8 @@
 ---
 title: ISIS
-logo: docs/fr/images/logo-isis.png
+![Logo](https://raw.githubusercontent.com/UTILISATEUR/REPO/BRANCHE/docs/fr/images/logo-isis.png)
 ---
 
-![Logo](docs/fr/images/logo-isis.png)
 
 ## Présentation
 
