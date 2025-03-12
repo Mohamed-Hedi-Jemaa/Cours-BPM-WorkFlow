@@ -1,5 +1,5 @@
 ---
-title: Bonita Camp 🇫🇷
+title: ISIS <img src="docs\fr\images\logo-isis.png" alt="Logo" width="150"/>
 ---
 
 ## Présentation
