@@ -1,8 +1,6 @@
----
-title: ISIS
----
+title: "Cours Bonita FIE4 2025 - Mohamed Hedi DJEMAA"
+logo: "docs/fr/images/logo-isis.png"
 
-![Logo](https://raw.githubusercontent.com/Mohamed-Hedi-Jemaa/Cours-BPM-WorkFlow/main/docs/fr/images/logo-isis.png)
 
 
 ## Présentation
