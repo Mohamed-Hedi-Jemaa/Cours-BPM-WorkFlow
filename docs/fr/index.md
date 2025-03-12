@@ -1,7 +1,8 @@
 ---
 title: ISIS
-![Logo]([https://github.com/Mohamed-Hedi-Jemaa/Cours-BPM-WorkFlow/blob/main/docs/fr/images/logo-isis.png])
 ---
+
+![Logo](https://raw.githubusercontent.com/Mohamed-Hedi-Jemaa/Cours-BPM-WorkFlow/main/docs/fr/images/logo-isis.png)
 
 
 ## Présentation
