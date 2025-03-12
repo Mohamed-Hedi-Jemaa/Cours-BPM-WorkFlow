@@ -24,10 +24,8 @@ markdown: GFM
 theme: minima
 
 header_pages:
-title: "Cours Bonita FIE4 2025 - Mohamed Hedi DJEMAA"
-logo: "docs/fr/images/logo-isis.png"
 
- # - fr/index.md
+  - fr/index.md
 
 
 # Exclude from processing.
