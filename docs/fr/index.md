@@ -3,7 +3,7 @@
 
 ## Présentation
 
-Le Bonita Camp est une formation d'introduction à l'utilisation de Bonita Community Edition. Il a pour objectif de vous permettre de vous familiariser avec les concepts et fonctionnalités cœurs de Bonita.
+C'est cour est une introduction à l'utilisation de Bonita Community Edition. Il a pour objectif de vous permettre de vous familiariser avec les concepts et fonctionnalités cœurs de Bonita.
 Le Bonita Camp comporte à la fois des informations théoriques et une partie mise en pratique avec des exercices permettant de créer une première application à l'aide de Bonita.
 Si vous avez besoin d'assistance n'hésitez pas à :
 
