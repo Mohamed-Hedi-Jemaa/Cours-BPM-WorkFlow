@@ -1,6 +1,9 @@
 ---
-title: ISIS <img src="docs\fr\images\logo-isis.png" alt="Logo" width="150"/>
+title: ISIS
+logo: docs/fr/images/logo-isis.png
 ---
+
+![Logo](docs/fr/images/logo-isis.png)
 
 ## Présentation
 
