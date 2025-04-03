@@ -75,4 +75,6 @@ L'objectif de cet exercice est de créer un fragment contenant l'information d'u
    L'application devrait ressembler à ceci une fois déployée :
      ![application rendering](images/ex06/ex6_08.png)   
 
-Et c'est tout! ;)
+[Exercice suivant : Déployer vos applications Bonita pour la production ](09-Déploiement.md)
+
+
