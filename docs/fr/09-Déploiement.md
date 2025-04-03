@@ -1,5 +1,5 @@
 ---
-Déployer votre applications Bonita pour la production
+title: Exercice 9 - Déployer votre applications Bonita pour la production
 ---  
 
 ## Vidéos et documentation de référence  
