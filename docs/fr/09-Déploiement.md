@@ -6,7 +6,7 @@ title: Exercice 9 - Déployer votre applications Bonita pour la production
 
 Pour vous guider dans le déploiement de votre application Bonita en production, référez-vous aux ressources suivantes :  
 
-🔗 [Bonita Camp - Déploiement (Chapitre 8)](https://fr.bonitasoft.com/videos/bonita-camp-deploiement-chapitre-8)  
+🔗 [Déploiement](https://fr.bonitasoft.com/videos/bonita-camp-deploiement-chapitre-8)  
 📖 [Documentation officielle - Build a process for deployment](https://documentation.bonitasoft.com/bonita/latest/build-a-process-for-deployment)  
 
 ## Instructions  
